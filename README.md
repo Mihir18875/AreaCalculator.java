@@ -14,12 +14,6 @@ MySQL JDBC Driver (Included in pom.xml for Maven projects)
 
 Maven (For dependency management -
 
- How to Run the Project
-Option 1: Using Maven
-Clone the repository (if applicable):
-bash
-git clone https://github.com/your-repo/shape-area-calculator.git
-cd shape-area-calculator
 Build the project 
 Run the application
 The project is open source under the MIT License 
