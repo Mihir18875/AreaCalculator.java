@@ -1,4 +1,4 @@
-The Shape Area Calculator is a Java-based console application that computes the area of various geometric shapes (e.g., circle, rectangle, triangle) and stores the calculation history in a MySQL database using JDBC. The project follows MVC (Model-View-Controller) architecture, ensuring clean separation between UI, business logic, and database operations. 
+The Shape Area Calculator is a Java-based console application that computes the area of various geometric shapes (e.g., circle, rectangle, triangle, square) and stores the calculation history in a MySQL database using JDBC. The project follows MVC (Model-View-Controller) architecture, ensuring clean separation between UI, business logic, and database operations. 
 ✨ Key Features
 ✅ Calculate Areas for multiple shapes (Circle, Rectangle, Triangle, Square, etc.)
 ✅ Database Integration (JDBC + MySQL) to save and retrieve calculation history
@@ -10,7 +10,7 @@ Java Development Kit (JDK) 11+ (Download JDK)
 
 MySQL Database (Download MySQL)
 
-MySQL JDBC Driver (Included in pom.xml for Maven projects)
+MySQL JDBC Driver
 
 Maven (For dependency management -
 
