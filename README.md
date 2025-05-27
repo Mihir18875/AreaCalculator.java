@@ -16,8 +16,7 @@ Maven (For dependency management -
 
 Build the project 
 Run the application
-The project is open source under the MIT License 
-
+The project is open source under the MIT License
 
 
 
